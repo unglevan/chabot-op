@@ -2,8 +2,8 @@
     "port": 5000,
     "bots": {
         "github": {
-            "hostname": "github.com",
-            "token": "YOUR_TOKEN",
+            "hostname": "chabot-op.herokuapp.com",
+            "token": "856fdec349e9a0e1f1b4dc03ea134aaa",
             "route": "/github/hooks/:roomid"
         }
     }
